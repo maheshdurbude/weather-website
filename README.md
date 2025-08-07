@@ -13,6 +13,8 @@ A responsive and interactive **Weather App** built with **HTML**, **CSS**, and *
   - Cloudiness
 -  Saves user coordinates in **session storage**
 -  Responsive layout for mobile and desktop
+
+
 ![Wetherwebsite](./assets/wetherwebsite.png)
 ## About
 Weather App is a responsive, user-friendly web application that allows users to check the current weather of their location or any city in the world. Built using HTML, CSS, and JavaScript, the app fetches real-time weather data from the OpenWeatherMap API.
